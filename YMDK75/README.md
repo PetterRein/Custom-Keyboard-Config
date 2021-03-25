@@ -13,11 +13,13 @@
  - Open the keymap.c in text editor and make your own keymap
  - Compile and flash
 
-## Flashing new firmware
+## Flashing new firmware & access to reset button
  - Press reset button on the back of the PCB
- - Press Fn+Esc
+ - Flash firmware if Atmel DFU connected
+
+ ## Flashing new firmware & not access to reset button
  - Long press Space+B while connecting the PCB to computer
- - Flash firmware
+ - Flash firmware if Atmel DFU connected
 
  ## Good to knows
  ### Swich between 6KRO and NKRO
