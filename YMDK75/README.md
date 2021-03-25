@@ -1,5 +1,18 @@
 # YMDK75 config & how to flash
 
+## Change the firmware/keymap
+ - Follow [QMK Tutorial](https://beta.docs.qmk.fm/tutorial/newbs_getting_started)
+ - Clone this repo with possible some keymaps already setup
+ - For default firmware use command: `qmk compile -kb ymd75/rev3 -km default`
+ - Change to the keymap you want, and flash it
+
+ ## Create new firmware/keymap
+- Follow [QMK Tutorial](https://beta.docs.qmk.fm/tutorial/newbs_getting_started)
+ - For default firmware use command: `qmk compile -kb ymd75/rev3 -km default`
+ - Setup new keymap that is clone of default: `qmk new-keymap`
+ - Open the keymap.c in text editor and make your own keymap
+ - Compile and flash
+
 ## Flashing new firmware
  - Press reset button on the back of the PCB
  - Press Fn+Esc
