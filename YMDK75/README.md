@@ -1,4 +1,5 @@
 # YMDK75 config & how to flash
+![Current keyboard](https://github.com/PetterRein/Custom-Keyboard-Config/blob/main/YMDK75/photos/5.jpg?raw=true)
 
 ## Change the firmware/keymap
  - Follow [QMK Tutorial](https://beta.docs.qmk.fm/tutorial/newbs_getting_started)

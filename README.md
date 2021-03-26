@@ -8,3 +8,6 @@ Repo that contain my configuration and how to flash my custom keyboards
  - [QMK newvs tutorial](https://beta.docs.qmk.fm/tutorial/newbs)
  - [Keyboard layout editor](http://www.keyboard-layout-editor.com/)
  - [Platye & Case Builder CAD from layout editor](http://builder.swillkb.com/)
+
+# Current Keyboard
+![Current keyboard](https://github.com/PetterRein/Custom-Keyboard-Config/blob/main/YMDK75/photos/5.jpg?raw=true)
