@@ -27,6 +27,7 @@
 
 ## Good to knows
 ### Swich between 6KRO and NKRO
+ - Enable NKRO first in rules file for keyboard in qmk files
  - Remove USB from computer, press Space+N while connecting USB to computer again 
 ### Control RGB Underglow
  - Long press Fn+QERTYUIOP
