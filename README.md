@@ -10,4 +10,4 @@ Repo that contain my keymaps, and how to flash my custom keyboards
  - [Plate & Case Builder CAD from layout editor](http://builder.swillkb.com/)
 
 # Current Keyboard
-![Current keyboard](https://github.com/PetterRein/Custom-Keyboard-Config/blob/main/YMDK75/photos/5.jpg?raw=true)
+![Current keyboard](https://github.com/PetterRein/Custom-Keyboard-Config/blob/main/YMDK75/photos/current.jpg?raw=true)
